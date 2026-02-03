@@ -25,3 +25,25 @@ This project focuses on **usability, accessibility (WCAG best practices)**, and 
 - react-hot-toast
 - LocalStorage
 
+## 📸 Screenshots
+
+### Main View
+![Main view](screenshots/home.png)
+
+### Add Todo
+![Add todo](screenshots/add-todo.png)
+
+### Add Todo
+![Add todo toast](screenshots/add-todo-toast.png)
+
+### Completed State
+![Completed todo](screenshots/completed.png)
+
+### Filtered View
+![Filtered todos](screenshots/filter-completed.png)
+
+### Undo Delete
+![Undo delete](screenshots/undo-delete.png)
+
+### Empty State
+![Empty state](screenshots/empty-state.png)

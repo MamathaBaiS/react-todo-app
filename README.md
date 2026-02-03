@@ -3,6 +3,8 @@
 A clean and accessible Todo List application built with React.  
 This project focuses on **usability, accessibility (WCAG best practices)**, and **real-world UX patterns**, not just basic CRUD functionality.
 
+---
+
 ## ✨ Features
 - Add, complete, and delete todos
 - Filter todos by All / Completed / Incomplete
@@ -10,6 +12,8 @@ This project focuses on **usability, accessibility (WCAG best practices)**, and 
 - Undo delete functionality
 - Scrollable todo list for large datasets
 - Clean and responsive light-theme UI
+
+---
 
 ## ♿ Accessibility Highlights
 - Semantic HTML structure
@@ -19,11 +23,15 @@ This project focuses on **usability, accessibility (WCAG best practices)**, and 
 - Keyboard-accessible interactions
 - Proper use of ARIA (only where necessary)
 
+---
+
 ## 🛠 Tech Stack
 - React (Functional Components & Hooks)
 - CSS (custom, no UI library)
 - react-hot-toast
 - LocalStorage
+
+---
 
 ## 📸 Screenshots
 
@@ -33,7 +41,7 @@ This project focuses on **usability, accessibility (WCAG best practices)**, and 
 ### Add Todo
 ![Add todo](screenshots/add-todo.png)
 
-### Add Todo
+### Add Todo Feedback
 ![Add todo toast](screenshots/add-todo-toast.png)
 
 ### Completed State
@@ -47,3 +55,34 @@ This project focuses on **usability, accessibility (WCAG best practices)**, and 
 
 ### Empty State
 ![Empty state](screenshots/empty-state.png)
+
+---
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MamathaBaiS/react-todo-app.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd react-todo-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+The app will be available at `http://localhost:3000`.
+
